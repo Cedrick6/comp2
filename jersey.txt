@@ -1,0 +1,4 @@
+Gama,6
+Cedrick,06
+Lubin,006
+Gabe,10
